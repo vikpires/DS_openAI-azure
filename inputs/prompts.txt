@@ -1,0 +1,9 @@
+
+Prompt 01: 
+I'm planning a trip to Japan in December. Can you help me?
+
+Prompt 02: 
+Can you give me more information about the item 7?
+
+Prompt 03: 
+What three places do you recommend I stay in Japan to be within walking distance to historical attractions? Explain your reasoning.
